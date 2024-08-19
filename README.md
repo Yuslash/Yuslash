@@ -17,9 +17,6 @@
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Yuslash ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//sibi-krishna-557935251) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/No_Cat250) 
 
-<p align="center">
-  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Full Width GIF" style="width: 100%; height: auto; object-fit: fill;"/>
-</p>
 
 # 💻 Tech Stack:
 
@@ -91,3 +88,6 @@
 ---
 
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Full Width GIF" style="width: 100%; height: auto; object-fit: fill;"/>
+</p>
