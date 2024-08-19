@@ -14,12 +14,12 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Full Width GIF" style="width: 100%; height: auto;"/>
-</p>
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Yuslash ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//sibi-krishna-557935251) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/No_Cat250) 
+
+<p align="center">
+  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Full Width GIF" style="width: 100%; height: auto; object-fit: fill;"/>
+</p>
 
 # 💻 Tech Stack:
 
@@ -57,11 +57,33 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBwo70v-oZ0qGHyoUni1RLYCWg4REUz7znw&s" alt="Image" width="100" height="auto" style="margin: 5px;"/>
 </p>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 70%;">
+      <!-- GitHub Stats -->
+      <p align="left">
+        <!-- GitHub Stats Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Yuslash&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
+      </p>
+      <p align="left">
+        <!-- GitHub Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuslash&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%;">
+      </p>
+      <p align="left">
+        <!-- GitHub Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuslash&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%;">
+      </p>
+    </td>
+    <td style="width: 30%;">
+      <!-- Funny GIF -->
+      <p align="center">
+        <img src="https://media1.tenor.com/m/gaEpIfzxzPEAAAAC/pedro-monkey-puppet.gif" alt="Funny GIF" style="width: 100%; height: auto;"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yuslash&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yuslash&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuslash&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yuslash&limit=5&theme=dark&combine_all_yearly_contributions=true)
