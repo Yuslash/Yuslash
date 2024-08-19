@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="Coding GIF" width="180" height="auto"/>
+      <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="Coding GIF" width="230" height="auto"/>
     </td>
     <td>
       Hi, I'm Sibikrishna, a passionate developer with expertise in Python, Java, and JavaScript. I specialize in building dynamic web applications using React.js, React Three Fiber, Drei, and Tailwind CSS. My skills extend to working with Rapier for physics simulations and Native Three.js for immersive 3D experiences. I also have experience with GLSL for shaders, Cannon.js for physics, Blender and Unity for 3D modeling and game development, and Figma for design. I'm deeply interested in AI/ML and LLM technologies, constantly exploring their potential to innovate and solve complex problems.
