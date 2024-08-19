@@ -41,6 +41,7 @@
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="Figma Icon" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/02/Why-Genstore-2.gif" alt="Genstore GIF" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://cdn.dribbble.com/userupload/10415638/file/original-1ec75c3d6a15eb4d05bb5b5157c92ee7.gif" alt="Dynamic Visuals" width="100" height="auto"/>
+  
 </p>
 
 <h2 align="center" style="color: #FF6F61;">🌟 Additional Highlights</h2>
@@ -49,9 +50,11 @@
   <img src="https://media.licdn.com/dms/image/D4E22AQGMLh-dI34xVQ/feedshare-shrink_2048_1536/0/1714380513705?e=2147483647&v=beta&t=13-QzEHa3Q0BXAhMlvLqUnfrgRtbuzfBxRPFb1SqRgM" alt="LinkedIn Image" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://miro.medium.com/v2/resize:fit:800/1*fKV3_Y4usDYZKPsNp1yCvA.png" alt="Medium Image" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="Medium Image" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhrXkURJixxPsWMmdPf3f86vWNbuagMoaoA&s" alt="Image" width="100" height="auto" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/800px-WebGL_Logo.svg.png" alt="WebGL Logo" style="width: 100px; height: auto;"/>
   <img src="https://miro.medium.com/v2/resize:fit:800/0*khSm-BwiYiSlQeGY.gif" alt="GIF" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBwo70v-oZ0qGHyoUni1RLYCWg4REUz7znw&s" alt="Image" width="100" height="auto" style="margin: 5px;"/>
+  <img src="https://jeancochrane.com/static/images/blog/pytorch-functional-api/pytorch-logo.png" alt="PyTorch Logo" style="width: 100px; height: auto;"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_glsl_icon_130577.png" alt="GLSL Icon" style="width: 100px; height: auto;"/>
+  <img src="https://slevesque.gallerycdn.vsassets.io/extensions/slevesque/shader/1.1.5/1612764634901/Microsoft.VisualStudio.Services.Icons.Default" alt="Shader Icon" style="width: 100px; height: auto;"/>
 </p>
 
 <table style="width: 100%;">
