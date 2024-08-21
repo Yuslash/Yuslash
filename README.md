@@ -36,6 +36,7 @@
 <h2 align="center" style="color: #FF6F61;">🔧 Tools and Technologies</h2>
 
 <p align="center" style="margin: 20px 0;">
+  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js Logo" style="width: 100px; height: auto;"/>
   <img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" alt="Flask Cover" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://camo.githubusercontent.com/937d48ac2c75b5f2a207a383d1f559fdab46bf1c00e8d59eb6107d8b7234a88c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" alt="Image" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="Figma Icon" width="100" height="auto" style="margin: 5px;"/>
