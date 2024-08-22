@@ -56,6 +56,7 @@
   <img src="https://jeancochrane.com/static/images/blog/pytorch-functional-api/pytorch-logo.png" alt="PyTorch Logo" style="width: 100px; height: auto;"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_glsl_icon_130577.png" alt="GLSL Icon" style="width: 100px; height: auto;"/>
   <img src="https://slevesque.gallerycdn.vsassets.io/extensions/slevesque/shader/1.1.5/1612764634901/Microsoft.VisualStudio.Services.Icons.Default" alt="Shader Icon" style="width: 100px; height: auto;"/>
+  <img src="https://www.reactsight.com/img/floatinggif2.gif" alt="React Sight GIF" style="width: 100px; height: auto;"/>
 </p>
 
 <table style="width: 100%;">
