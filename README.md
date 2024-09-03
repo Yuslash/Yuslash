@@ -43,6 +43,7 @@
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/02/Why-Genstore-2.gif" alt="Genstore GIF" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://cdn.dribbble.com/userupload/10415638/file/original-1ec75c3d6a15eb4d05bb5b5157c92ee7.gif" alt="Dynamic Visuals" width="100" height="auto"/>
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png" alt="MongoDB 3D Icon" style="width: 100px;" />
+  <img src="https://static-00.iconduck.com/assets.00/prisma-icon-423x512-isxs6996.png" alt="Prisma Icon" style="width: 80px;" />
 </p>
 
 <h2 align="center" style="color: #FF6F61;">🌟 Additional Highlights</h2>
