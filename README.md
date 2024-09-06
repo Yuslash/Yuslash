@@ -62,6 +62,7 @@
   <img src="https://sp-ao.shortpixel.ai/client/q_lossy,ret_img,w_240,h_240/https://richcontentdesign.com/wp-content/uploads/2019/10/greensock@2x.png" alt="GSAP Logo" style="width: 100px; height: auto;"/>
   <img src="https://pbs.twimg.com/profile_images/1307605289881997312/holvNXs5_400x400.jpg" alt="Profile Image" style="width: 80px;" />
   <img src="https://seekvectors.com/files/download/Typescript-01.png" alt="Typescript Logo" style="width: 100px;" />
+  <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="Image" style="width: 100px;" />
 </p>
 
 <table style="width: 100%;">
