@@ -9,7 +9,7 @@
       <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="Coding GIF" width="230" height="auto"/>
     </td>
     <td>
-      Hi, I'm Sibikrishna, a passionate developer with expertise in Python, Java, and JavaScript. I specialize in building dynamic web applications using React.js, React Three Fiber, Drei, and Tailwind CSS. My skills extend to working with Rapier for physics simulations and Native Three.js for immersive 3D experiences. I also have experience with GLSL for shaders, Cannon.js for physics, Blender and Unity for 3D modeling and game development, and Figma for design. I'm deeply interested in AI/ML and LLM technologies, constantly exploring their potential to innovate and solve complex problems.
+      Hi, I'm Sibikrishna! 🧙‍♂️ A code wizard who loves crafting dynamic web worlds with React, Three.js, and Tailwind ✨. I dabble in 3D magic with Blender 🌀 and Unity 🎮, run wild with physics using Rapier ⚙️ and Cannon.js 💥, and add sparkle with GLSL shaders 🌟. I’m also fascinated by AI 🤖 and LLMs 🧠, always exploring how they can shape the future!
     </td>
   </tr>
 </table>
