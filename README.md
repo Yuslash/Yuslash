@@ -9,7 +9,12 @@
       <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="Coding GIF" width="230" height="auto"/>
     </td>
     <td>
-      Hi, I'm Sibikrishna! 🧙‍♂️ A code wizard who loves crafting dynamic web worlds with React, Three.js, and Tailwind ✨. I dabble in 3D magic with Blender 🌀 and Unity 🎮, run wild with physics using Rapier ⚙️ and Cannon.js 💥, and add sparkle with GLSL shaders 🌟. I’m also fascinated by AI 🤖 and LLMs 🧠, always exploring how they can shape the future!
+      <ul>
+        <li><strong>Hi, I'm Sibikrishna!</strong> 🧙‍♂️ A code wizard who loves crafting dynamic web worlds with <strong>React, Three.js, and Tailwind</strong> ✨.</li>
+        <li>I dabble in <strong>3D magic</strong> with <strong>Blender</strong> 🌀 and <strong>Unity</strong> 🎮.</li>
+        <li>Run wild with physics using <strong>Rapier</strong> ⚙️ and <strong>Cannon.js</strong> 💥, and add sparkle with <strong>GLSL shaders</strong> 🌟.</li>
+        <li>I'm fascinated by <strong>AI</strong> 🤖 and <strong>LLMs</strong> 🧠, always exploring how they can shape the future!</li>
+      </ul>
     </td>
   </tr>
 </table>
