@@ -10,7 +10,7 @@
     </td>
     <td>
       <ul>
-        <li><strong>Hi, I'm Sibikrishna!</strong> 🧙‍♂️ A legendary code wizard (no, I'm not 💀) who loves (hates) crafting dynamic web worlds with <strong>React, Three.js, and Tailwind (only know HTML and CSS)</strong> ✨.</li>
+        <li><strong>Hi, I'm Sibikrishna!</strong> 🧙‍♂️ A legendary code wizard (Totally Suffering💀) who loves (hates) crafting dynamic web worlds with <strong>React, Three.js, and Tailwind (only know HTML and CSS)</strong> ✨.</li>
         <li>3D magic? I dabble with <strong>Blender</strong> 🌀 and <strong>Unity</strong> 🎮 (know how to delete cube).</li>
         <li>Run wild with physics using <strong>Rapier</strong> ⚙️ and <strong>Cannon.js</strong> 💥 (explosions = brain hurt).</li>
         <li>Fascinated by <strong>AI</strong> 🤖 and <strong>LLMs</strong> 🧠 (completed AI course in Ohio University).</li>
