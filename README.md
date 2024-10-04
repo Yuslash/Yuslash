@@ -62,7 +62,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="Medium Image" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/800px-WebGL_Logo.svg.png" alt="WebGL Logo" style="width: 100px; height: auto;"/>
   <img src="https://miro.medium.com/v2/resize:fit:800/0*khSm-BwiYiSlQeGY.gif" alt="GIF" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Icon" style="width: 80px; height: auto;"/>
+  <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git Icon" style="width: 100px;" />
   <img src="https://jeancochrane.com/static/images/blog/pytorch-functional-api/pytorch-logo.png" alt="PyTorch Logo" style="width: 100px; height: auto;"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_glsl_icon_130577.png" alt="GLSL Icon" style="width: 100px; height: auto;"/>
   <img src="https://slevesque.gallerycdn.vsassets.io/extensions/slevesque/shader/1.1.5/1612764634901/Microsoft.VisualStudio.Services.Icons.Default" alt="Shader Icon" style="width: 100px; height: auto;"/>
