@@ -15,7 +15,7 @@
         <li>Run wild with physics using <strong>Rapier</strong> ⚙️ and <strong>Cannon.js</strong> 💥 (explosions = brain hurt).</li>
         <li>Fascinated by <strong>AI</strong> 🤖 and <strong>LLMs</strong> 🧠 (completed AI course in Ohio University).</li>
         <li>I have a legendary laptop(tractor) to code 💻.</li>
-        <li>Know <strong>MongoDB</strong>, <strong>Prisma</strong>, and <strong>PostgreSQL</strong> (they can query my misery).</li>
+        <li>Know <strong>MongoDB</strong>, <strong>Prisma</strong>, and <strong>PostgreSQL</strong> (Because i dont have Space in my laptop).</li>
       </ul>
     </td>
   </tr>
