@@ -13,7 +13,7 @@
         <li><strong>Hi, I'm Sibikrishna!</strong> 🧙‍♂️ A legendary code wizard (No I'm Not💀, Totally Suffering) who loves (hates) crafting dynamic web worlds with <strong>React, Three.js, and Tailwind (only know HTML and CSS)</strong> ✨.</li>
         <li>3D magic? I dabble with <strong>Blender</strong> 🌀 and <strong>Unity</strong> 🎮 (know how to delete cube).</li>
         <li>Run wild with physics using <strong>Rapier</strong> ⚙️ and <strong>Cannon.js</strong> 💥 (Do you know this. neither me).</li>
-        <li>Fascinated by <strong>AI</strong> 🤖 and <strong>LLMs</strong> 🧠 (completed AI course in Ohio University).</li>
+        <li>Fascinated by <strong>AI</strong> 🤖 and <strong>LLMs</strong> 🧠 (AI expert? Nah, just good at pretending.).</li>
         <li>I have a legendary laptop(tractor) to code 💻.</li>
         <li>Know <strong>MongoDB</strong>, <strong>Prisma</strong>, and <strong>PostgreSQL</strong> (Because i dont have Space in my laptop).</li>
       </ul>
