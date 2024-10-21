@@ -46,6 +46,7 @@
 <p align="center" style="margin: 20px 0;">
   <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js Logo" style="width: 100px; height: auto;"/>
   <img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" alt="Flask Cover" width="100" height="auto" style="margin: 5px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" alt="GIF" style="width: 100px; height: auto;" />
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="Figma Icon" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/02/Why-Genstore-2.gif" alt="Genstore GIF" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://cdn.dribbble.com/userupload/10415638/file/original-1ec75c3d6a15eb4d05bb5b5157c92ee7.gif" alt="Dynamic Visuals" width="100" height="auto"/>
