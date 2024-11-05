@@ -16,6 +16,7 @@
         <li>Fascinated by <strong>AI</strong> 🤖 and <strong>LLMs</strong> 🧠 (AI expert? Nah, just good at pretending.).</li>
         <li>I have a legendary laptop(tractor) to code 💻.</li>
         <li>Know <strong>MongoDB</strong>, <strong>Prisma</strong>, and <strong>PostgreSQL</strong> (Because i dont have Space in my laptop).</li>
+        <li>Good? Evil? I Reject Them Both</li>
       </ul>
     </td>
   </tr>
