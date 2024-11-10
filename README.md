@@ -82,10 +82,11 @@
         <!-- GitHub Stats Card -->
         <img src="https://github-readme-stats.vercel.app/api?username=Yuslash&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
       </p>
-      <p align="left">
-        <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuslash&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%;">
-      </p>
+      <p align="left" style="width: 100%;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Yuslash&theme=radical" alt="GitHub Streak" style="width: 100%;" />
+  </a>
+</p>
       <p align="left">
         <!-- GitHub Top Languages -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuslash&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%;">
