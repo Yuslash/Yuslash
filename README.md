@@ -83,8 +83,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Yuslash&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
       </p>
       <p align="left" style="width: 100%;">
-  <a href="https://github-readme-streak-stats-beta-snowy.vercel.app?user=Yuslash&theme=radical">
-    <img src="https://github-readme-streak-stats-beta-snowy.vercel.app?user=Yuslash&theme=radical" alt="GitHub Streak" style="width: 100%;" />
+  <a href="https://github-streak-2.vercel.app?user=Yuslash&theme=radical">
+    <img src="https://github-streak-2.vercel.app?user=Yuslash&theme=radical" alt="GitHub Streak" style="width: 100%;" />
   </a>
 </p>
       <p align="left">
