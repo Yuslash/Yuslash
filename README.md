@@ -9,9 +9,7 @@
 >
 > *You’re alive, not dead. So smell the flowers, drink in the sunsets and the sunrises, and the majestic skies above you.*  
 >
-> *Celebrate life because **you won the lottery.** Most people will never even know there was a lottery.*
-> 
->  *If that’s not motivation to live life to the fullest, I don’t know what is.*
+> *Celebrate life because **you won the lottery.** Most people will never even know there was a lottery. If that’s not motivation to live life to the fullest, I don’t know what is.*
 
 
 <p align="center">
