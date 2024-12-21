@@ -1,3 +1,15 @@
+> [!IMPORTANT]
+> *The total number of people who have ever been born is about **100 billion.** How many total possible people can be born? That number is astronomically large—**10 to the 30th power,** which is a billion, trillion, trillion.*  
+>
+> *It’s likely even bigger than that....... Which means, in practical terms, no one who will ever be born will be identical to you.*  
+>
+> *That’s not the most important fact. It’s that **we’re the lucky ones.** We’re the ones who get to die.... Because you only get to die for having lived....... Most people who could ever exist will never even be born.*  
+>
+> *You’re alive, not dead. So smell the flowers, drink in the sunsets and the sunrises, and the majestic skies above you.*  
+>
+> *Celebrate life because **you won the lottery.** Most people will never even know there was a lottery. If that’s not motivation to live life to the fullest, I don’t know what is.*
+
+
 <p align="center">
   <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="Intro to Computer Programming" style="width: 100%; height: auto;"/>
 </p>
