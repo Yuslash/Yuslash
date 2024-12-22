@@ -80,7 +80,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_glsl_icon_130577.png" alt="GLSL Icon" style="width: 100px; height: auto;"/>
   <img src="https://slevesque.gallerycdn.vsassets.io/extensions/slevesque/shader/1.1.5/1612764634901/Microsoft.VisualStudio.Services.Icons.Default" alt="Shader Icon" style="width: 100px; height: auto;"/>
   <img src="https://www.reactsight.com/img/floatinggif2.gif" alt="React Sight GIF" style="width: 100px; height: auto;"/>
-  <img src="https://sp-ao.shortpixel.ai/client/q_lossy,ret_img,w_240,h_240/https://richcontentdesign.com/wp-content/uploads/2019/10/greensock@2x.png" alt="GSAP Logo" style="width: 100px; height: auto;"/>
   <img src="https://pbs.twimg.com/profile_images/1307605289881997312/holvNXs5_400x400.jpg" alt="Profile Image" style="width: 80px;" />
   <img src="https://seekvectors.com/files/download/Typescript-01.png" alt="Typescript Logo" style="width: 100px;" />
   <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="Image" style="width: 100px;" />
