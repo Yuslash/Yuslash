@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="Intro to Computer Programming" style="width: 100%; height: auto;"/>
 </p>
