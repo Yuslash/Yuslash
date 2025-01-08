@@ -120,4 +120,3 @@
   <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Full Width GIF" style="width: 100%; height: auto; object-fit: fill;"/>
 </p>
 
-going to chennai
