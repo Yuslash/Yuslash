@@ -1,6 +1,8 @@
+
 <p align="center">
   <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="Intro to Computer Programming" style="width: 100%; height: auto;"/>
 </p>
+
 
 > [!IMPORTANT]
 > *The total number of people who have ever been born is about **100 billion.** How many total possible people can be born? That number is astronomically large—**10 to the 30th power,** which is a billion, trillion, trillion.*  
