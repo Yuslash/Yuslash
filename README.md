@@ -60,7 +60,6 @@
   <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js Logo" style="width: 100px; height: auto;"/>
   <img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" alt="Flask Cover" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" alt="GIF" style="width: 100px; height: auto;" />
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="Figma Icon" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/02/Why-Genstore-2.gif" alt="Genstore GIF" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://cdn.dribbble.com/userupload/10415638/file/original-1ec75c3d6a15eb4d05bb5b5157c92ee7.gif" alt="Dynamic Visuals" width="100" height="auto"/>
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png" alt="MongoDB 3D Icon" style="width: 100px;" />
@@ -77,7 +76,6 @@
   <img src="https://miro.medium.com/v2/resize:fit:800/0*khSm-BwiYiSlQeGY.gif" alt="GIF" width="100" height="auto" style="margin: 5px;"/>
   <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git Icon" style="width: 100px;" />
   <img src="https://jeancochrane.com/static/images/blog/pytorch-functional-api/pytorch-logo.png" alt="PyTorch Logo" style="width: 100px; height: auto;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_glsl_icon_130577.png" alt="GLSL Icon" style="width: 100px; height: auto;"/>
   <img src="https://slevesque.gallerycdn.vsassets.io/extensions/slevesque/shader/1.1.5/1612764634901/Microsoft.VisualStudio.Services.Icons.Default" alt="Shader Icon" style="width: 100px; height: auto;"/>
   <img src="https://www.reactsight.com/img/floatinggif2.gif" alt="React Sight GIF" style="width: 100px; height: auto;"/>
   <img src="https://pbs.twimg.com/profile_images/1307605289881997312/holvNXs5_400x400.jpg" alt="Profile Image" style="width: 80px;" />
