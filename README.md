@@ -45,43 +45,6 @@
   <img src="https://media1.tenor.com/m/1Hl-pTPeUwwAAAAC/coding-coding-meme.gif" alt="Coding Meme" width="478" height="auto" style="margin-bottom: 20px;"/>
 </p>
 
-<h2 align="center" style="color: #FF6F61;">❤️‍🔥 Fab 4</h2>
-
-<p align="center" style="margin: 20px 0;">
-  <img src="https://corenexus.is/wp-content/uploads/2018/06/ThreeJS-Icon.png" alt="Three.js Icon" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:960/1*h7GMfvHKvLPkynG9NvULJw.gif" alt="GIF" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="New Image" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*T966qYHNTRwrzrdo_HQCMw.gif" alt="New GIF" width="100" height="auto" style="margin: 5px;"/>
-</p>
-
-<h2 align="center" style="color: #FF6F61;">🔧 Tools and Technologies</h2>
-
-<p align="center" style="margin: 20px 0;">
-  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js Logo" style="width: 100px; height: auto;"/>
-  <img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" alt="Flask Cover" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" alt="GIF" style="width: 100px; height: auto;" />
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/02/Why-Genstore-2.gif" alt="Genstore GIF" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://cdn.dribbble.com/userupload/10415638/file/original-1ec75c3d6a15eb4d05bb5b5157c92ee7.gif" alt="Dynamic Visuals" width="100" height="auto"/>
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png" alt="MongoDB 3D Icon" style="width: 100px;" />
-  <img src="https://static-00.iconduck.com/assets.00/prisma-icon-423x512-isxs6996.png" alt="Prisma Icon" style="width: 80px;" />
-</p>
-
-<h2 align="center" style="color: #FF6F61;">🌟 Additional Highlights</h2>
-
-<p align="center" style="margin: 20px 0;">
-  <img src="https://media.licdn.com/dms/image/D4E22AQGMLh-dI34xVQ/feedshare-shrink_2048_1536/0/1714380513705?e=2147483647&v=beta&t=13-QzEHa3Q0BXAhMlvLqUnfrgRtbuzfBxRPFb1SqRgM" alt="LinkedIn Image" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:800/1*fKV3_Y4usDYZKPsNp1yCvA.png" alt="Medium Image" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="Medium Image" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/800px-WebGL_Logo.svg.png" alt="WebGL Logo" style="width: 100px; height: auto;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:800/0*khSm-BwiYiSlQeGY.gif" alt="GIF" width="100" height="auto" style="margin: 5px;"/>
-  <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git Icon" style="width: 100px;" />
-  <img src="https://jeancochrane.com/static/images/blog/pytorch-functional-api/pytorch-logo.png" alt="PyTorch Logo" style="width: 100px; height: auto;"/>
-  <img src="https://slevesque.gallerycdn.vsassets.io/extensions/slevesque/shader/1.1.5/1612764634901/Microsoft.VisualStudio.Services.Icons.Default" alt="Shader Icon" style="width: 100px; height: auto;"/>
-  <img src="https://www.reactsight.com/img/floatinggif2.gif" alt="React Sight GIF" style="width: 100px; height: auto;"/>
-  <img src="https://pbs.twimg.com/profile_images/1307605289881997312/holvNXs5_400x400.jpg" alt="Profile Image" style="width: 80px;" />
-  <img src="https://seekvectors.com/files/download/Typescript-01.png" alt="Typescript Logo" style="width: 100px;" />
-  <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="Image" style="width: 100px;" />
-</p>
 
 <table style="width: 100%;">
   <tr>
