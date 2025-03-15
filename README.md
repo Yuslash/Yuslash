@@ -34,13 +34,6 @@
   </tr>
 </table>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//sibi-krishna-557935251) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/No_Cat250) 
-
-
-# 💻 Tech Stack:
-
   <p align="center">
   <img src="https://media1.tenor.com/m/1Hl-pTPeUwwAAAAC/coding-coding-meme.gif" alt="Coding Meme" width="478" height="auto" style="margin-bottom: 20px;"/>
 </p>
