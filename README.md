@@ -39,33 +39,6 @@
 </p>
 
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 70%;">
-      <!-- GitHub Stats -->
-      <p align="left">
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Yuslash&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
-      </p>
-      <p align="left" style="width: 100%;">
-  <a href="https://github-streak-2.vercel.app?user=Yuslash&theme=radical">
-    <img src="https://github-streak-2.vercel.app?user=Yuslash&theme=radical" alt="GitHub Streak" style="width: 100%;" />
-  </a>
-</p>
-      <p align="left">
-        <!-- GitHub Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuslash&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%;">
-      </p>
-    </td>
-    <td style="width: 30%;">
-      <!-- Funny GIF -->
-      <p align="center">
-        <img src="https://media1.tenor.com/m/gaEpIfzxzPEAAAAC/pedro-monkey-puppet.gif" alt="Funny GIF" style="width: 100%; height: auto;"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 
