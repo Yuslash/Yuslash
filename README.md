@@ -34,9 +34,7 @@
   </tr>
 </table>
 
-  <p align="center">
-  <img src="https://media1.tenor.com/m/1Hl-pTPeUwwAAAAC/coding-coding-meme.gif" alt="Coding Meme" width="478" height="auto" style="margin-bottom: 20px;"/>
-</p>
+
 
 
 ---
